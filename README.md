@@ -1,5 +1,5 @@
 # UMHackathon 2025
-This repository stores the links for presentation sldies and Figma Prototype for the Domain 3 Task 1.
+This repository stores the links for presentation slides and Figma Prototype for the Domain 3 Task 1. You might ask, why no signs of documentation? Well our slides has the enough answer to that.
 
 # Presentation Slide
 [Canva Slide](https://www.canva.com/design/DAGkTJs84rw/5tvdbJ0Nn8a2tI8GT2EGtg/edit)
